@@ -13,5 +13,5 @@
 - 🤔 Meus interesses são desenvolvimento front-end, UI, UX.
 - 💼 Ferramentas:VSCode, GitHub.
 - 💬 "Você realmente sente que não há nada que não possa aprender, o que, por sua vez, aumenta a confiança em suas habilidades e dá o impulso para continuar aprendedo!"
-- 📫 Onde me encontrar >>> 
+- 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josu%C3%A9-miguel-0b06b9214/)  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/josue_blessed/) [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/Josue.DrumMan/)
