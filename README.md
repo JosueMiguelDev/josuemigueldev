@@ -9,7 +9,7 @@
 
 **Sobre mim!**
 <p align="left"> 
-  🤓 Atualmente estou estudando <strong>Desenvolvimento de Front-End</strong>.
+  🤓 Atualmente tenho estudo <strong>Desenvolvimento de Front-End</strong>.
 </p>
 
 <p align="left"> 
