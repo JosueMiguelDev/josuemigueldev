@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Laptop, VSCode, GitHub.</strong>
+  💼 Ferramentas: <strong>VSCode, GitHub.</strong>
 </p>
 
 <p align="left">
