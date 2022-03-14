@@ -7,21 +7,21 @@
 
 <img src="https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef58be30e954fc1b059da8/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-**Sobre mim!**
+**About me!!**
 <p align="left"> 
-  🤓 Atualmente tenho estudo <strong>Desenvolvimento de Front-End</strong>.
+  🤓 I am currently studying Front-End Development.</strong>.
 </p>
 
 <p align="left"> 
- 💻 Meus interesses são desenvolvimento front-end, UI, UX.
+ 💻 My interests are front-end development, UI, UX.
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, GitHub.</strong>
+  💼 Tools: <strong>VSCode, Sublimetext,GitHub.</strong>
 </p>
 
 <p align="left">
-  💬 "Você realmente sente que não há nada que não possa aprender, o que, por sua vez, aumenta a confiança em suas habilidades e dá o impulso para continuar aprendedo!"
+  💬 ""You really feel like there's nothing you can't learn, which in turn builds confidence in your skills and gives you the impetus to keep learning!""
 </p>
 
 
